@@ -1,5 +1,7 @@
 *.dat
 *.pkl
 __pycache__/
-/*/__pycache__/
+numericalmodel/__pycache__/
+analyticalmodel/__pycache__/
+
 
